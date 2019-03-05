@@ -1,7 +1,7 @@
 {
   "name": "@jupyterlab/theme-aiidalab-extension",
   "version": "0.19.1",
-  "description": "JupyterLab - AiiDA Lab Theme",
+  "description": "AiiDA Lab Theme for JupyterLab",
   "homepage": "https://github.com/CasperWA/jupyterlab-theme",
   "bugs": {
     "url": "https://github.com/CasperWA/jupyterlab-theme/issues"
