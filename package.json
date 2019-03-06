@@ -1,10 +1,10 @@
 {
-  "name": "@jupyterlab/theme-aiidalab-extension",
+  "name": "@aiidalab/theme-aiidalab-extension",
   "version": "0.19.1",
   "description": "AiiDA Lab Theme for JupyterLab",
-  "homepage": "https://github.com/CasperWA/jupyterlab-theme",
+  "homepage": "https://github.com/aiidalab/jupyterlab-theme",
   "bugs": {
-    "url": "https://github.com/CasperWA/jupyterlab-theme/issues"
+    "url": "https://github.com/aiidalab/jupyterlab-theme/issues"
   },
   "license": "Proprietary",
   "author": "AiiDA Lab Team",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CasperWA/jupyterlab-theme.git"
+    "url": "https://github.com/aiidalab/jupyterlab-theme.git"
   },
   "scripts": {
     "build": "tsc -b",
